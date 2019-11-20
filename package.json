@@ -6,7 +6,7 @@
   "scripts": {
     "start": "parcel start index.html",
     "build": "parcel build index.html",
-    "ghpages": "parcel build --out-dir docs --public-url webgl-hello-world index.html"
+    "ghpages": "parcel build --out-dir docs --public-url ./ index.html"
   },
   "keywords": [],
   "author": "",
